@@ -6,6 +6,7 @@ Welcome to the **Social Network Analysis** repository! This project involves ana
 
 - [Introduction](#introduction)
 - [Key Features](#key-features)
+- [Dataset](#Dataset)
 - [Usage](#usage)
 - [Contact](#contact)
 
@@ -27,6 +28,14 @@ This repository provides a comprehensive analysis of social network data, includ
 - **Influencer Identification**
 - **Recommendation System**
 
+## Dataset
+
+The dataset used in this project is derived from the SNAP Facebook Social Circles dataset. It includes the following files:
+
+facebook_combined.txt: A combined file containing edges between users in the Facebook social network. Each line represents a connection between two users.
+facebook: The Facebook Social Circles dataset typically includes several files for each ego network.
+Download from : https://snap.stanford.edu/data/ego-Facebook.html
+
 ## Usage
 
 Open the Jupyter notebook in the `notebooks/` directory for detailed analysis and implementation:
@@ -47,5 +56,5 @@ In the notebook, you’ll find:
 
 For any questions or feedback, please contact:
 
-- **Your Name**: [your.email@example.com](mailto:ananthofficial9@gmail.com)
-- **GitHub**: [github.com/yourusername](https://github.com/Ananth09/)
+- **Your Name**: (mailto:ananthofficial9@gmail.com)
+- **GitHub**: (https://github.com/Ananth09/)
