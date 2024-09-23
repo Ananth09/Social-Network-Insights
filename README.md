@@ -32,9 +32,9 @@ This repository provides a comprehensive analysis of social network data, includ
 
 The dataset used in this project is derived from the SNAP Facebook Social Circles dataset. It includes the following files:
 
-facebook_combined.txt: A combined file containing edges between users in the Facebook social network. Each line represents a connection between two users.
-facebook: The Facebook Social Circles dataset typically includes several files for each ego network.
-Download from : https://snap.stanford.edu/data/ego-Facebook.html
+- **facebook_combined.txt**: A combined file containing edges between users in the Facebook social network. Each line represents a connection between two users.
+- **facebook**: The Facebook Social Circles dataset typically includes several files for each ego network.
+- **Download from** : https://snap.stanford.edu/data/ego-Facebook.html
 
 ## Usage
 
